@@ -1,0 +1,45 @@
+.profile {
+  width: 220px;
+  text-align: center;
+  border-radius: 5px;
+  border: solid 1px gray;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+.name {
+  font-size: 25px;
+  padding: 4px;
+  margin: 0px;
+}
+
+.location,
+.tag {
+  color: grey;
+  margin: 0px;
+  padding: 5px;
+}
+
+.stats {
+  justify-content: center;
+  text-align: center;
+  list-style: none;
+  display: flex;
+  margin: 0px;
+  background: rgba(110, 105, 105, 0.507);
+  padding-left: 0;
+}
+
+.quantity,
+.label {
+  display: flex;
+  margin-left: 15px;
+}
+
+.label {
+  font-size: 12px;
+}

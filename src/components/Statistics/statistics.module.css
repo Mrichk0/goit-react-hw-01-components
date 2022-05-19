@@ -1,0 +1,23 @@
+.statistics {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.statList {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.label {
+  display: flex;
+}
+.title {
+  font-size: 18px;
+  color: gray;
+}
+
+.item {
+  padding: 15px 20px;
+}
